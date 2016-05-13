@@ -1,0 +1,3 @@
+[submodule "zsh-config"]
+	path = zsh-config
+	url = https://github.com/sharma-mohit/zsh-config.git
