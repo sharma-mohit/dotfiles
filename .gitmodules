@@ -1,3 +1,3 @@
-[submodule "zsh-config"]
-	path = zsh-config
-	url = https://github.com/sharma-mohit/zsh-config.git
+[submodule "macosx-iterm2-settings"]
+	path = macosx-iterm2-settings
+	url = https://github.com/sharma-mohit/macosx-iterm2-settings
